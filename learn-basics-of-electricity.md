@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Basics of Electricity
 ---
 ## What Is Electricity?
