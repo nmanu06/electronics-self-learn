@@ -29,7 +29,9 @@ Resistance is the **opposition** to the flow of current. Materials like rubber h
 ## Ohm’s Law
 
 One of the most important relationships in electronics is **Ohm’s Law**:
+
 V = I × R
+
 This means voltage equals current times resistance. If you know any two of these values, you can calculate the third.
 
 ## Why It Matters
