@@ -1,8 +1,11 @@
 ---
 layout: home
-title: Welcome to Electronics Self-Learn!
+title: Welcome
 ---
 
+# Welcome to Electronics Self-Learn
+
+Start your journey to learn electronics from the basics to advanced topics!
 
 Welcome to **Electronics Self-Learn**, your go-to platform for mastering the fundamentals of electronics at your own pace. Whether you're a curious beginner, a student, or a hobbyist looking to sharpen your skills, this site is designed to guide you through the fascinating world of electronics—step by step.
 
