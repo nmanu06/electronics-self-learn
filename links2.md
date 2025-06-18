@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Links2
-date: 2023-01-01
 ---
 
 <div class="container">
