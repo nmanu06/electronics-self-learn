@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Welcome to Electronics Self-Learn
 date: 2023-01-01
 ---
