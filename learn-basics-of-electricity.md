@@ -3,8 +3,6 @@ layout: page
 title: Basics of Electricity
 ---
 
-# Basics of Electricity
-
 Electricity is the foundation of all modern electronics. Before diving into circuits and components, it's important to understand the basic concepts that govern how electricity works.
 
 ## What Is Electricity?
