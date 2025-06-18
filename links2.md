@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Useful Links
 date: 2023-01-01
 ---
