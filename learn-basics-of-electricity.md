@@ -2,10 +2,9 @@
 layout: page
 title: Basics of Electricity
 ---
+## What Is Electricity?
 
 Electricity is the foundation of all modern electronics. Before diving into circuits and components, it's important to understand the basic concepts that govern how electricity works.
-
-## What Is Electricity?
 
 Electricity is the flow of electric charge, typically carried by electrons in a conductor like copper wire. This flow is what powers everything from light bulbs to smartphones.
 
