@@ -5,7 +5,7 @@ title: Welcome
 
 # Welcome to Electronics Self-Learn
 
-Welcome to Electronics Self-Learn, your go-to platform for mastering the fundamentals of electronics at your own pace. Whether you're a curious beginner, a student, or a hobbyist looking to sharpen your skills, this site is designed to guide you through the fascinating world of electronics—step by step.
+Welcome to **Electronics Self-Learn**, your go-to platform for mastering the fundamentals of electronics at your own pace. Whether you're a curious beginner, a student, or a hobbyist looking to sharpen your skills, this site is designed to guide you through the fascinating world of electronics—step by step.
 
 Electronics is the foundation of modern technology. From smartphones and computers to electric vehicles and smart homes, electronic systems power the devices we use every day. Understanding how these systems work not only empowers you to build and repair your own gadgets but also opens doors to exciting careers in engineering, robotics, and innovation.
 
