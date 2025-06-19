@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Links2
+permalink: /basics/
 ---
 
 <div class="container">
