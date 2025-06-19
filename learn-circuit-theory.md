@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Circuit Theory
-permalink: /basics/
+permalink: /learn-circuit-theory/
 ---
 
 Understand the principles of circuit theory and how to analyze electrical circuits.
