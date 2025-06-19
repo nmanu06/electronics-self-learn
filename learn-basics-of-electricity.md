@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Basics of Electricity
+permalink: /basics/
 ---
 ## What Is Electricity?
 
