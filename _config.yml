@@ -1,3 +1,8 @@
 title: Electronics Self-Learn
 description: A self-learning platform for electronics fundamentals
 theme: minima
+
+minima:
+  skin: classic
+  include_css:
+    - /assets/css/custom.css
