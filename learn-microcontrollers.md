@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microcontrollers
-permalink: /basics/
+permalink: /learn-microcontrollers/
 ---
 
 ## Microcontrollers
