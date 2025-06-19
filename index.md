@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome
+permalink: /basics/
 ---
 
 # Welcome to Electronics Self-Learn
