@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Components
+permalink: /basics/
 ---
 
 ## Components
