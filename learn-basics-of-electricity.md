@@ -3,6 +3,9 @@ layout: page
 title: Basics of Electricity
 permalink: /learn-basics/
 ---
+
+https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 Electricity is the invisible force that powers our modern world. From the smartphones in our pockets to the lights in our homes, electricity is at the heart of every electronic device. But before diving into resistors, capacitors, and microcontrollers, it's essential to understand the fundamentals of electricity—what it is, how it works, and why it matters.
 
 In this article, we’ll explore the core concepts of electricity in a way that’s easy to understand, even if you’re just starting out.
