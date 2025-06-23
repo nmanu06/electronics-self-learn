@@ -58,6 +58,11 @@ This formula is incredibly useful. If you know any two of the three values, you 
 If you have a 9V battery and a 3Ω resistor, the current is
 
 
+$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
+
+
 ## Why It Matters
 
 Understanding these basics is essential for building and troubleshooting circuits. Whether you're lighting an LED or designing a robot, these principles are always at work.
