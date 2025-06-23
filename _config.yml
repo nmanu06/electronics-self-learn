@@ -6,3 +6,9 @@ minima:
   skin: classic
   include_css:
     - /assets/css/custom.css
+
+    
+# Add this line:
+include:
+  - _includes/head-custom.html
+
