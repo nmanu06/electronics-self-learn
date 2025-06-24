@@ -7,9 +7,7 @@ permalink: /learn-basics/
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-$$
-\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
-$$
+
 
   
 Electricity is the invisible force that powers our modern world. From the smartphones in our pockets to the lights in our homes, electricity is at the heart of every electronic device. But before diving into resistors, capacitors, and microcontrollers, it's essential to understand the fundamentals of electricity—what it is, how it works, and why it matters.
@@ -54,9 +52,12 @@ Analogy: A kink in the hose that restricts water flow
 
 ## Ohm’s Law: The Golden Rule of Electronics
 
-One of the most important relationships in electronics is Ohm’s Law, which connects voltage, current, and resistance:
+One of the most important relationships in electronics is Ohm’s Law, which connects voltage, current, and resistance. The law states that the current through a conductor is proportional to the voltage across it and inversely proportional to its resistance, which can be mathematically represented as:
 
-V = I × R
+$$
+I = \frac{V}{R}
+$$
+
 Where:
 
 V is voltage (volts)
