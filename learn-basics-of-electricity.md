@@ -60,9 +60,9 @@ $$
 
 Where:
 
-V is voltage (volts)
-I is current (amperes)
-R is resistance (ohms)
+V is voltage (volts)\
+I is current (amperes)\
+R is resistance (ohms)\
 This formula is incredibly useful. If you know any two of the three values, you can calculate the third. For example:
 
 If you have a 9V battery and a 3Ω resistor, the current is
