@@ -60,9 +60,9 @@ $$
 
 Where:
 
-V is voltage (volts)\
-I is current (amperes)\
-R is resistance (ohms)\
+- V is voltage (volts)\
+- I is current (amperes)\
+- R is resistance (ohms)\
 This formula is incredibly useful. If you know any two of the three values, you can calculate the third. For example:
 
 If you have a 9V battery and a 3Ω resistor, the current is
@@ -72,9 +72,9 @@ If you have a 9V battery and a 3Ω resistor, the current is
 ## How Electricity Flows in a Circuit
 A circuit is a closed loop that allows current to flow. It typically includes:
 
-A power source (like a battery)
-Conductors (wires)
-Loads (components like LEDs, motors, or resistors)
+- A power source (like a battery)
+- Conductors (wires)
+- Loads (components like LEDs, motors, or resistors)
 When the circuit is complete, electrons flow from the negative terminal of the power source, through the components, and back to the positive terminal.
 
 If the circuit is open (like a switch is off), the flow stops. If it’s shorted (no resistance), it can cause overheating or damage.
